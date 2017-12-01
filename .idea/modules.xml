@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bi/bi.iml" filepath="$PROJECT_DIR$/bi/bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/collector.iml" filepath="$PROJECT_DIR$/collector/collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/flume/flume.iml" filepath="$PROJECT_DIR$/collector/flume/flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/hbase/hbase.iml" filepath="$PROJECT_DIR$/warehouse/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/hive/hive.iml" filepath="$PROJECT_DIR$/warehouse/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collector/sqoop/sqoop.iml" filepath="$PROJECT_DIR$/collector/sqoop/sqoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripDB.iml" filepath="$PROJECT_DIR$/tripDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warehouse/warehouse.iml" filepath="$PROJECT_DIR$/warehouse/warehouse.iml" />
+    </modules>
+  </component>
+</project>

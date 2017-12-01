@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="bi">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\bi\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="sqoop">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\collector\sqoop\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="collector">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\collector\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="warehouse">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\warehouse\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="hbase">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\warehouse\hbase\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="hive">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\warehouse\hive\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="flume">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\collector\flume\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="tripDB">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\Develop\BigdataScalaProject\tripDB\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
